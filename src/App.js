@@ -4,7 +4,9 @@
 // import Count from './day3-useState/Count';
 // import Expanse from './day3-useState/Expanse';
 // import Product from './day4-filtering/Product';
-import Fetchdata from './day5-useEffect/Fetchdata';
+// import Fetchdata from './day5-useEffect/Fetchdata';
+// import FocusInput from "./day6-useRef/FocusInput";
+import StopWatch from "./day6-useRef/StopWatch";
 
 
 
@@ -17,7 +19,9 @@ export default function App() {
       {/* <Count/> */}
       {/* <Expanse/> */}
       {/* <Product/> */}
-      <Fetchdata/>
+      {/* <Fetchdata/> */}
+      {/* <FocusInput/> */}
+      <StopWatch/>
     </>
   );
 }
